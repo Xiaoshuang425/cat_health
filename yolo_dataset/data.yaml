@@ -1,0 +1,4 @@
+train: dataset/images/train
+val: dataset/images/val
+nc: 5  # 你的类别数（normal、Lightweight and portable 等共5类）
+names: ["normal", "Lightweight and portable", "watery diarrhoea", "constipation", "parasitic infection"]
