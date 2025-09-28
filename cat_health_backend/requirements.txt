@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-pydantic
-# 用於AI模型，根據您的選擇添加，例如：
-# tensorflow
-# torch
-# opencv-python
